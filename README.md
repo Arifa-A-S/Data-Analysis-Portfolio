@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Data-Analysis
 ## Online Shopper Revenue Prediction
 This project predicts whether a given shopper will generate revenue based on available data.
 
